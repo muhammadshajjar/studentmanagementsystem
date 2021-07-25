@@ -1,0 +1,19 @@
+﻿  Source.cpp
+F:\student management system\student management system\Source.cpp(43,11): warning C4309: 'initializing': truncation of constant value
+F:\student management system\student management system\Source.cpp(364,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\student management system\student management system\Source.cpp(423,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\student management system\student management system\Source.cpp(683,7): warning C4101: 'check2': unreferenced local variable
+F:\student management system\student management system\Source.cpp(853,10): warning C4129: 'T': unrecognized character escape sequence
+F:\student management system\student management system\Source.cpp(861,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(866,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(871,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(876,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(881,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(886,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(891,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(896,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(901,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(906,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(911,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\student management system\student management system\Source.cpp(932,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  student management system.vcxproj -> F:\student management system\Debug\student management system.exe
